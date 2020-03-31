@@ -1,4 +1,5 @@
 {
   "name": "CurrentCost Custom Component for Home Assistant",
-  "domains": "sensor"
+  "domains": "sensor",
+  "iot_class": "local push"
 }
