@@ -1,0 +1,4 @@
+{
+  "name": "CurrentCost Custom Component for Home Assistant",
+  "domains": "sensor"
+}
